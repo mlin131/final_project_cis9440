@@ -1,4 +1,4 @@
-# final_project_cis9440
+# final_project_cis9440  
 NYC affordable housing transparency project
 author(s): Dajana Avxhi, Diego Mora Rojas, Amanda Maglaras, Mingxing (Max) Lin
 date created: 11/27/2022
@@ -55,3 +55,5 @@ Picture of final Dashboard:
 Deployment
 The project was deployed on Tableau Public: https://public.tableau.com/app/profile/diego.mora.rojas/viz/KPIsVisuals/Dashboard1?publish=yes
 
+Our Github link:
+https://github.com/mlin131/final_project_cis9440
