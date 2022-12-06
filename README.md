@@ -30,11 +30,11 @@ List of Data Warehouse KPI's:
 Dimensional Model
 This project's Dimensional Model consists of 3 Facts and 3 Dimensions
 
-![Alt text](Dimensional Model.JPG)
+![Alt text](Dimensional_Model.JPG)
 
 
 This project's Kimball Bus Matrix:
-![Alt text](Kimball Matrix.JPG)
+![Alt text](Kimball_bus_Matrix.JPG)
 
 Business Intelligence Design and Development
 List of Visualizations for each KPI: 
@@ -50,7 +50,7 @@ BI Application Wireframe design:
 
 Picture of final Dashboard:
 
-![Alt text](Dashboard KPIs.JPG)
+![Alt text](Dashboard_KPIs.PNG)
 
 Deployment
 The project was deployed on Tableau Public: https://public.tableau.com/app/profile/diego.mora.rojas/viz/KPIsVisuals/Dashboard1?publish=yes
