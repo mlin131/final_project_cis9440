@@ -2,11 +2,11 @@
 
 NYC affordable housing transparency project
 
-author(s): Dajana Avxhi, Diego Mora Rojas, Amanda Maglaras, Mingxing (Max) Lin
+Author(s): Dajana Avxhi, Diego Mora Rojas, Amanda Maglaras, Mingxing (Max) Lin
 
-date created: 11/27/2022
+Date created: 11/27/2022
 
-class: CIS 9440
+Class: CIS 9440
 
 Project Objective: Follow the Kimball Lifecycle to design and develop a public, cloud-based Data Warehouse with a functioning BI Applications
 
