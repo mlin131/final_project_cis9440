@@ -1,13 +1,19 @@
 # final_project_cis9440  
+
 NYC affordable housing transparency project
+
 author(s): Dajana Avxhi, Diego Mora Rojas, Amanda Maglaras, Mingxing (Max) Lin
+
 date created: 11/27/2022
+
 class: CIS 9440
+
 Project Objective: Follow the Kimball Lifecycle to design and develop a public, cloud-based Data Warehouse with a functioning BI Applications
 
 Project Tools: The tools used to build this Data Warehouse were: 1. For data integration - python 2. For data warehousing - Google BigQuery 3. For Business Intelligence - Tableau
 
 Kimball Lifecycle Project Stages
+
 Project Planning
 Motivation for project: Considering the fact that affordable housing in general is a persisting issue in NYC and combining that with the post COVID financial situation of many, we wanted to learn more and share some information which can be helpful for people looking into housing or people looking to start a project. We wanted to shed some light into the locations of current housing projects and affordability based on median income, mainly focusing on low income units. Additionally, this project aims to find out how many of the tax abatements given to developers are being translated to actual affordable housing units each year.
 
